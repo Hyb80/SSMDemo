@@ -2,3 +2,6 @@ This is a hello.txt file
 
 master的修改:
 Hello master
+
+slave 的修改:
+
