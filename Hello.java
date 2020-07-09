@@ -7,4 +7,10 @@ public class Hello{
 		System.out.println("第二天做了一个加法器");
 		return a+b;
 	}
+	public static void fun(){
+
+	}
+	public static void fun1(){
+
+	}
 }	
