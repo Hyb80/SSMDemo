@@ -11,6 +11,6 @@ public class Hello{
 		System.out.println(a+b);
 	}
 	public static void fun1(){
-
+		System.out.println("在来一个");
 	}
 }	
